@@ -23,6 +23,7 @@ This site will be about (in priority...):
 
 ##TOOLS and wingdings:
 
+- [Google L Design Specs](http://www.google.com/design/spec/material-design/introduction.html)
 - [Parallax tutorial](https://ihatetomatoes.net/how-to-create-a-parallax-scrolling-website-part-2/)
 - [Scroll.js](https://github.com/hakimel/stroll.js)
 - [D3](https://github.com/mbostock/d3)
